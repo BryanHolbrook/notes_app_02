@@ -1,1 +1,13 @@
 @import 'materialize.min.css';
+
+.page-footer {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
+
+.center {
+    padding: 0 auto;
+    margin: 0 auto;
+
+}
